@@ -1,4 +1,4 @@
-image::../images/mySensors_icon.jpg[Image du produit]
+image::../images/Remote.jpg[Image du produit]
 
 <<resume, Résumé>>
 
@@ -13,17 +13,18 @@ image::../images/mySensors_icon.jpg[Image du produit]
 [[resume]]
 ===== Résumé
 
-Utilité du node
+Ce node permet d'interragir comme une télécommande ou avec une télécommande. Le mode réception et émission sont disponibles.
 
+Il peut fonctionner avec de l'infrarouge ou du RF433 suivant les capteurs utilisés
 
 [[composants]]
 ===== Composants
 
-* Arduino Mini 5V
+* Arduino Mini ou Nano
 
 * NRF24L01
 
-* ?
+* Couple de capteurs RF433 ou Infrarouge suivant le besoin
 
 
 [[schema]]
@@ -37,7 +38,7 @@ A venir
 
 [source]
 ---------------------------------------------------------------------
-Sketch
+a venir
 ---------------------------------------------------------------------
 
 [[configuration]]
