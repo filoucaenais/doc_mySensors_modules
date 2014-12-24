@@ -30,7 +30,7 @@ Le node teleinfo vous permet de récupérer les informations de votre compteur �
 
 A venir
 
-image::../images/teleinfo_principe.jpg[Principe de montage]
+image::../images/teleinfo_principe.npg[Principe de montage]
 
 [[sketch]]
 ===== Sketch
