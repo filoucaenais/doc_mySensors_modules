@@ -1,4 +1,4 @@
-image::../images/mySensors_icon.jpg[Image du produit]
+image::../images/RCSwitch.jpg[Image du produit]
 
 <<resume, Résumé>>
 
