@@ -1,13 +1,16 @@
 == Documentation sur les modules mySensors
 
 === Noeud Téléinfo
-include::teleinfo.asciidoc[]
+include::Teleinfo.asciidoc[]
 
 === Noeud Relais
-include::relais.asciidoc[]
+include::Relay.asciidoc[]
 
 === Noeud RF433
-include::teleinfo.asciidoc[]
+include::RCSwitch.asciidoc[]
 
-=== Noeud Télécommande
-include::remote.asciidoc[]
+=== Noeud MultiSensor
+include::MultiSensor.asciidoc[]
+
+=== Noeud Remote
+include::Remote.asciidoc[]
