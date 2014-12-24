@@ -19,7 +19,9 @@ Le node teleinfo vous permet de récupérer les informations de votre compteur �
 ===== Composants
 
 * Arduino Mega
+
 * NRF24L01
+
 * octocoupleur SFH620A
 
 
@@ -27,7 +29,8 @@ Le node teleinfo vous permet de récupérer les informations de votre compteur �
 ===== Schéma de montage
 
 A venir
-image::../images/teleinfo.jpg[Principe de montage]
+
+image::../images/teleinfo_principe.jpg[Principe de montage]
 
 [[sketch]]
 ===== Sketch
@@ -461,11 +464,19 @@ void affecteEtiquette(char *etiquette, char *valeur){ // Envoie à jeedom
 ===== Configuration
 
 MyMessage msgADCO(0,V_VAR1);
+
 MyMessage msgHCHP(1,V_KWH);
+
 MyMessage msgHCHC(2,V_KWH);
+
 MyMessage msgPTEC(3,V_VAR2);
+
 MyMessage msgIINST(4,V_CURRENT);
+
 MyMessage msgIMAX(5,V_CURRENT);
+
 MyMessage msgISOUSC(6,V_CURRENT);
+
 MyMessage msgPAPP(7,V_WATT);
+
 MyMessage msgOPTARIF(8,V_VAR3);
