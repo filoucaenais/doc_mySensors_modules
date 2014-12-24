@@ -1,1 +1,46 @@
-D
+image::../images/mySensors_icon.jpg[Image du produit]
+
+<<resume, Résumé>>
+
+<<composants, Composants>>
+
+<<schema, Schéma de montage>>
+
+<<sketch,  Sketch>>
+
+<<configuration,  Configuration>>
+
+[[resume]]
+===== Résumé
+
+Utilité du node
+
+
+[[composants]]
+===== Composants
+
+* Arduino Mini 5V
+
+* NRF24L01
+
+* ?
+
+
+[[schema]]
+===== Schéma de montage
+
+A venir
+
+
+[[sketch]]
+===== Sketch
+
+[source]
+---------------------------------------------------------------------
+Sketch
+---------------------------------------------------------------------
+
+[[configuration]]
+===== Configuration
+
+A venir
