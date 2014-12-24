@@ -1,4 +1,4 @@
-image::../images/mySensors_icon.jpg[Image du produit]
+image::../images/MultiSensor.png[Image du produit]
 
 <<resume, Résumé>>
 
@@ -13,7 +13,7 @@ image::../images/mySensors_icon.jpg[Image du produit]
 [[resume]]
 ===== Résumé
 
-Ce node permet d'avoir 4 capteurs en un seul. Température + Humidité + Luminosité + Présence + Ouverture
+Ce node permet d'avoir 5 capteurs en un seul. Température + Humidité + Luminosité + Présence + Ouverture
 
 
 [[composants]]
