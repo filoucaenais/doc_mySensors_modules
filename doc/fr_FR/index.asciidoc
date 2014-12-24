@@ -12,5 +12,8 @@ include::RCSwitch.asciidoc[]
 === Noeud MultiSensor
 include::MultiSensor.asciidoc[]
 
+=== Noeud Plante
+include::Plant.asciidoc[]
+
 === Noeud Remote
 include::Remote.asciidoc[]
