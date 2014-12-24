@@ -150,7 +150,7 @@ void setup() {
      gw.begin();
 
     // Send the sketch version information to the gateway and Controller
-     gw.sendSketchInfo("Teleinfo Sensor", "1.0");
+     gw.sendSketchInfo("Teleinfo", "1.0");
    
     // Present all sensors to controller
  
