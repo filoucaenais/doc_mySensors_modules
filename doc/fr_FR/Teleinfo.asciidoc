@@ -35,8 +35,7 @@ image::../images/teleinfo_principe.png[Principe de montage]
 [[sketch]]
 ===== Sketch
 
-[source]
----------------------------------------------------------------------
+----
 #include <MySensor.h> 
 #include <SPI.h>
 #include <SoftwareSerial.h>
@@ -458,7 +457,7 @@ void affecteEtiquette(char *etiquette, char *valeur){ // Envoie à jeedom
    }
  
 }
----------------------------------------------------------------------
+----
 
 [[configuration]]
 ===== Configuration
