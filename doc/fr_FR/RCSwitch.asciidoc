@@ -35,8 +35,7 @@ A venir
 [[sketch]]
 ===== Sketch
 
-[source]
----------------------------------------------------------------------
+----
 // Example sketch showing how to control physical relays. 
 // This example will remember relay state even after power failure.
 
@@ -142,7 +141,7 @@ void incomingMessage(const MyMessage &message) {
      gw.sendBatteryLevel(0);
    } 
 }
----------------------------------------------------------------------
+----
 
 [[configuration]]
 ===== Configuration
