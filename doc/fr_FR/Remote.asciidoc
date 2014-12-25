@@ -36,8 +36,7 @@ A venir
 [[sketch]]
 ===== Sketch
 
-[source]
----------------------------------------------------------------------
+----
 // Example sketch showing how to control ir devices
 // An IR LED must be connected to Arduino PWM pin 3.
 // An optional ir receiver can be connected to PWM pin 8. 
@@ -156,8 +155,7 @@ void incomingMessage(const MyMessage &message) {
   Serial.println("");
 }
 */
-
----------------------------------------------------------------------
+----
 
 [[configuration]]
 ===== Configuration
