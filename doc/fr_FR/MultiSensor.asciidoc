@@ -41,8 +41,7 @@ A venir
 [[sketch]]
 ===== Sketch
 
-[source]
----------------------------------------------------------------------
+----
 #include <SPI.h>
 #include <MySensor.h>  
 #include <DHT.h> 
@@ -155,9 +154,7 @@ void loop()
   gw.sleep(INTERRUPT,CHANGE, SLEEP_TIME);
 }
 
-
-
----------------------------------------------------------------------
+----
 
 [[configuration]]
 ===== Configuration
