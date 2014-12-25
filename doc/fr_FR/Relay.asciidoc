@@ -35,8 +35,7 @@ A venir
 [[sketch]]
 ===== Sketch
 
-[source]
----------------------------------------------------------------------
+----
 //  sketch pour piloter un ou plusieurs relais
 //  avec un mode normal, implusionnel et bistable
 // 
@@ -173,7 +172,7 @@ void incomingMessage(const MyMessage &message) {
    }
 #endif   
 }
----------------------------------------------------------------------
+----
 
 [[configuration]]
 ===== Configuration
