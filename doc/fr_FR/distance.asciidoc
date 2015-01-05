@@ -23,7 +23,7 @@ Utilité du node
 
 * NRF24L01
 
-* ?
+* SR04 Ultrasonic Sensor
 
 
 [[schema]]
